@@ -1,1 +1,1 @@
-uses replit
+Replit Project
