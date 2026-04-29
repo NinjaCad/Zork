@@ -31,7 +31,7 @@ java Main
 - **`Key.java`** — `InventoryItem` subclass intended to represent a key (room + direction fields).
 - **`Food.java`** — Stub for a `Food` item type (currently marked TODO).
 
-## Repo notes (facts, not opinions)
+## Repo notes
 - The repo contains `*.class` files (compiled Java bytecode) such as `Main.class`, `Commands.class`, etc.
 - The repo contains a backup/temporary-looking file: **`.Room.java.2848114809~`**.
 
