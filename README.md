@@ -1,7 +1,3 @@
-Here’s a clean, complete `README.md` you can use for your project:
-
----
-
 # 🏠 Escape the House (Zork Final Chapter)
 
 ## 📖 Overview
