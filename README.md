@@ -135,22 +135,3 @@ Escape the house by:
 * Use `inventory` often to track items
 * Some puzzles require multiple steps
 * If something doesn’t work, try using the item in a different room
-
----
-
-## ✨ Author
-
-**Caedmon Julian**
-
----
-
-## 🚀 Possible Improvements
-
-* Add health system (use Food class)
-* Add weight limits to inventory
-* Add more puzzles or branching endings
-* Expand map with multiple floors
-
----
-
-If you want, I can also help you polish this for grading (teachers often look for specific formatting or extra features).
