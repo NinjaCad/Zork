@@ -135,3 +135,18 @@ Escape the house by:
 * Use `inventory` often to track items
 * Some puzzles require multiple steps
 * If something doesn’t work, try using the item in a different room
+
+---
+
+## 🧠 What I Learned
+
+* Used a 2D array to build a game map
+* Moved player using row/column tracking
+* Worked with classes and object-oriented programming
+* Managed inventory using ArrayLists
+* Parsed and executed player commands
+* Added item interaction (take, drop, use)
+* Controlled game state with variables
+* Built a working text-based adventure game
+
+---
